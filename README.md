@@ -1,4 +1,11 @@
-### 👋
+  <h2 align="center">Rodrigo Atencio Github Repository</h2>
+  <p align="center">
+    <a href="https://www.linkedin.com/in/mauro-rodrigo-atencio-641607129/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue" />
+    </a>
+  </p>
+
+### 👋  This is my persona repo
 
 <!--
 **Wistame/Wistame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
