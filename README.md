@@ -5,7 +5,7 @@
     </a>
   </p>
 
-### 👋  This is my persona repo
+### 👋  Welcome to my personal repo
 
 <!--
 **Wistame/Wistame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
