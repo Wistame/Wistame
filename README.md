@@ -1,16 +1,15 @@
-### Hi there 👋
+### 👋
 
 <!--
 **Wistame/Wistame** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- I’m currently working on Swapp App, in collaboration with [Cindy Belter](https://www.behance.net/gallery/105423651/Case-study-Swap-App "Cindy Belter Behance Portfolio") (UX designer)
+- I’m also working on an e-commerce [Crwn](https://github.com/Wistame/practice-crwn-ecommerce) to further display my react expertice.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+## Swapp
+
+![Alt Text](https://media.giphy.com/media/dCJ4bYDJv7n8hciYAw/giphy.gif)
+
